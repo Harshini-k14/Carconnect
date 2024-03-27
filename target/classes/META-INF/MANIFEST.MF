@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: mysql-connector-j-8.0.33.jar protobuf-java-3.21.9.jar
+Main-Class: com.hexaware.main.CarMain
+Created-By: Maven Integration for Eclipse
+
